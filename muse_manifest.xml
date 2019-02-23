@@ -1,0 +1,954 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MinhsazulFerdous.com" resolutions="1x" timestamp="1550922669720">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="3d-render.css" crc="284941087" ref="3d-render"/>
+    <file name="nomq_3d-render.css" crc="506633585" ref="3d-render"/>
+    <file name="map-digitization.css" crc="4237255738" ref="map-digitization"/>
+    <file name="nomq_map-digitization.css" crc="4215349846" ref="map-digitization"/>
+    <file name="inclusive-cities-and-communities.css" crc="212394977" ref="inclusive-cities-and-communities"/>
+    <file name="nomq_inclusive-cities-and-communities.css" crc="4245760803" ref="inclusive-cities-and-communities"/>
+    <file name="urban-flood-management.css" crc="509409390" ref="urban-flood-management"/>
+    <file name="nomq_urban-flood-management.css" crc="356500470" ref="urban-flood-management"/>
+    <file name="index.css" crc="3972379436" ref="index"/>
+    <file name="nomq_index.css" crc="4122888893" ref="index"/>
+    <file name="suitable-site.css" crc="4059195107" ref="suitable-site"/>
+    <file name="nomq_suitable-site.css" crc="27918507" ref="suitable-site"/>
+    <file name="more-about-ferdous.css" crc="500830918" ref="more-about-ferdous"/>
+    <file name="nomq_more-about-ferdous.css" crc="4242734349" ref="more-about-ferdous"/>
+  </folder>
+  <folder name="assets">
+    <file name="150439-tp.ppsx" crc="3986278767" seo="true" mt="1488942637000"/>
+    <file name="150439-tp.pptx" crc="3817420923" seo="true" mt="1488384102000"/>
+    <file name="--mt---toolbox---before--amp--after-image-slider-(1.2).mulib" crc="3892691174" seo="true" mt="1548996634000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:more-about-ferdous:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="museutils.js" crc="340535759" ref="index:more-about-ferdous:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="whatinput.js" crc="86476730" ref="index:more-about-ferdous:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:more-about-ferdous:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:more-about-ferdous:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:more-about-ferdous:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="webpro.js" crc="4059564322" ref="index:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u2874.php" crc="514485804" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:more-about-ferdous"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:more-about-ferdous:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="require.js" crc="7928878" ref="index:more-about-ferdous:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+  </folder>
+  <folder name="images">
+    <file name="minhazul-ferdous-favicon.ico" crc="154738683" ref="index"/>
+    <file name="melbourne.png" crc="442362893" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p2.png" crc="3820291563" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="journal-2850091.jpg" crc="269504070" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1st-crop-u5211.jpg" crc="531615893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:more-about-ferdous:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render"/>
+    <file name="2nd-crop-u5515.jpg" crc="3761259466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3rd-crop-u5607.jpg" crc="412073453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="startup-593327b.jpg" crc="4225011272" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-actual.jpg" crc="247778002" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-hover.jpg" crc="419056770" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-actual.jpg" crc="4288644396" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-hover.jpg" crc="57515896" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-actual.jpg" crc="3994880742" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-hover.jpg" crc="52253358" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-actual.jpg" crc="287085375" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-hover.jpg" crc="38992311" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-actual.jpg" crc="113908316" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-hover.jpg" crc="208849875" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-5.png" crc="3987009393" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb.png" crc="402294892" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="g2.png" crc="198807859" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="g.png" crc="4128836745" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ld2.png" crc="54776538" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ld.png" crc="195987556" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wa1.png" crc="65725312" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wa2.png" crc="176767176" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-2.png" crc="3771532640" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-2wq.png" crc="6339613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-23.png" crc="279106547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="melbourne-u2181-fr.png" crc="3936568468" ref="index"/>
+    <file name="p2-u592-fr.png" crc="3761386215" ref="index"/>
+    <file name="journal-2850091-u805-fr.jpg" crc="3767328933" ref="index"/>
+    <file name="1st-crop-u52112.jpg" crc="4225703138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2nd-crop-u55152.jpg" crc="234795638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3rd-crop-u56072.jpg" crc="4017378358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="startup-593327b-u2448-fr.jpg" crc="288664614" ref="index"/>
+    <file name="4-actual-u13348-fr.jpg" crc="3841824701" ref="index"/>
+    <file name="4-hover-u13348-r-fr.jpg" crc="183658684" ref="index"/>
+    <file name="5-actual-u13339-fr.jpg" crc="444341864" ref="index"/>
+    <file name="5-hover-u13339-r-fr.jpg" crc="95771821" ref="index"/>
+    <file name="melbourne-u2181-fr2.png" crc="434059658" ref="index"/>
+    <file name="p2-u592-fr2.png" crc="149741715" ref="index"/>
+    <file name="journal-2850091-u805-fr2.jpg" crc="533798642" ref="index"/>
+    <file name="1st-crop-u52113.jpg" crc="3944109012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2nd-crop-u55153.jpg" crc="3870408899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3rd-crop-u56073.jpg" crc="3932897510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="startup-593327b-u2448-fr2.jpg" crc="4055507214" ref="index"/>
+    <file name="1-actual-u13370-fr.jpg" crc="292082059" ref="index"/>
+    <file name="1-hover-u13370-r-fr.jpg" crc="4121341077" ref="index"/>
+    <file name="2-actual-u13369-fr.jpg" crc="4009233065" ref="index"/>
+    <file name="2-hover-u13369-r-fr.jpg" crc="4251765432" ref="index"/>
+    <file name="3-actual-u13405-fr.jpg" crc="3885707367" ref="index"/>
+    <file name="3-hover-u13405-r-fr.jpg" crc="4279362680" ref="index"/>
+    <file name="4-actual-u13348-fr2.jpg" crc="4043063075" ref="index"/>
+    <file name="4-hover-u13348-r-fr2.jpg" crc="4226439509" ref="index"/>
+    <file name="5-actual-u13339-fr2.jpg" crc="4217119908" ref="index"/>
+    <file name="5-hover-u13339-r-fr2.jpg" crc="335186386" ref="index"/>
+    <file name="melbourne-u2181-fr3.png" crc="223982369" ref="index"/>
+    <file name="p2-u592-fr3.png" crc="4187580333" ref="index"/>
+    <file name="journal-2850091-u805-fr3.jpg" crc="3950472164" ref="index"/>
+    <file name="1st-crop-u52114.jpg" crc="3922193855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2nd600x376.jpg" crc="4281170182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3rd-crop-u56074.jpg" crc="3865056217" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="startup-593327b-u2448-fr3.jpg" crc="3875510822" ref="index"/>
+    <file name="1-actual-u13370-fr2.jpg" crc="3838504928" ref="index"/>
+    <file name="1-hover-u13370-r-fr2.jpg" crc="4214305255" ref="index"/>
+    <file name="2-actual-u13369-fr2.jpg" crc="529714376" ref="index"/>
+    <file name="2-hover-u13369-r-fr2.jpg" crc="4151684072" ref="index"/>
+    <file name="3-actual-u13405-fr2.jpg" crc="503395499" ref="index"/>
+    <file name="3-hover-u13405-r-fr2.jpg" crc="400755308" ref="index"/>
+    <file name="4-actual-u13348-fr3.jpg" crc="128310688" ref="index"/>
+    <file name="4-hover-u13348-r-fr3.jpg" crc="4113743357" ref="index"/>
+    <file name="5-actual-u13339-fr3.jpg" crc="4093797549" ref="index"/>
+    <file name="5-hover-u13339-r-fr3.jpg" crc="3852837655" ref="index"/>
+    <file name="melbourne-u2181-fr4.png" crc="200631418" ref="index"/>
+    <file name="p2-u592-fr4.png" crc="4183118555" ref="index"/>
+    <file name="journal-2850091-u805-fr4.jpg" crc="418336513" ref="index"/>
+    <file name="1st-crop-u52115.jpg" crc="140335833" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2nd-crop-u55154.jpg" crc="3914475613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3rd-crop-u56075.jpg" crc="3950658702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="startup-593327b-u2448-fr4.jpg" crc="3821884103" ref="index"/>
+    <file name="1-actual-u13370-fr3.jpg" crc="3904691356" ref="index"/>
+    <file name="1-hover-u13370-r-fr3.jpg" crc="500407463" ref="index"/>
+    <file name="2-actual-u13369-fr3.jpg" crc="287474123" ref="index"/>
+    <file name="2-hover-u13369-r-fr3.jpg" crc="253200737" ref="index"/>
+    <file name="3-actual-u13405-fr3.jpg" crc="382570157" ref="index"/>
+    <file name="3-hover-u13405-r-fr3.jpg" crc="4233425003" ref="index"/>
+    <file name="5-actual-u13339-fr4.jpg" crc="3969555060" ref="index"/>
+    <file name="5-hover-u13339-r-fr4.jpg" crc="4160932823" ref="index"/>
+    <file name="4-actual-u13348-fr4.jpg" crc="474905861" ref="index"/>
+    <file name="4-hover-u13348-r-fr4.jpg" crc="4243441581" ref="index"/>
+    <file name="untitled-5-u7205-fr.png" crc="374788910" ref="index"/>
+    <file name="fb-u7205-r-fr.png" crc="3765495067" ref="index"/>
+    <file name="g2-u7206-fr.png" crc="34719888" ref="index"/>
+    <file name="g-u7206-r-fr.png" crc="234479517" ref="index"/>
+    <file name="ld2-u7207-fr.png" crc="3867583103" ref="index"/>
+    <file name="ld-u7207-r-fr.png" crc="320318280" ref="index"/>
+    <file name="wa1-u7208-fr.png" crc="466425482" ref="index"/>
+    <file name="wa2-u7208-r-fr.png" crc="170380907" ref="index"/>
+    <file name="melbourne-u2181-fr5.png" crc="4292739601" ref="index"/>
+    <file name="p2-u592-fr5.png" crc="416899612" ref="index"/>
+    <file name="journal-2850091-u805-fr5.jpg" crc="256222007" ref="index"/>
+    <file name="1st338x225.jpg" crc="147924421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2nd360x226.jpg" crc="301439339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3rd320x226.jpg" crc="119537857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="startup-593327b-u2448-fr5.jpg" crc="285638395" ref="index"/>
+    <file name="1-actual-u13370-fr4.jpg" crc="3950415982" ref="index"/>
+    <file name="1-hover-u13370-r-fr4.jpg" crc="344123010" ref="index"/>
+    <file name="2-actual-u13369-fr4.jpg" crc="4163129690" ref="index"/>
+    <file name="2-hover-u13369-r-fr4.jpg" crc="193413771" ref="index"/>
+    <file name="3-actual-u13405-fr4.jpg" crc="4206973507" ref="index"/>
+    <file name="3-hover-u13405-r-fr4.jpg" crc="371901698" ref="index"/>
+    <file name="4-actual-u13348-fr5.jpg" crc="163966916" ref="index"/>
+    <file name="4-hover-u13348-r-fr5.jpg" crc="294486353" ref="index"/>
+    <file name="5-actual-u13339-fr5.jpg" crc="3864460851" ref="index"/>
+    <file name="5-hover-u13339-r-fr5.jpg" crc="3896621837" ref="index"/>
+    <file name="untitled-5-u7205-fr2.png" crc="453696217" ref="index"/>
+    <file name="fb-u7205-r-fr2.png" crc="401548430" ref="index"/>
+    <file name="g2-u7206-fr2.png" crc="4129232960" ref="index"/>
+    <file name="g-u7206-r-fr2.png" crc="4262113091" ref="index"/>
+    <file name="ld2-u7207-fr2.png" crc="140053851" ref="index"/>
+    <file name="ld-u7207-r-fr2.png" crc="123474536" ref="index"/>
+    <file name="wa1-u7208-fr2.png" crc="521091063" ref="index"/>
+    <file name="wa2-u7208-r-fr2.png" crc="308534254" ref="index"/>
+    <file name="p2-u592-fr6.png" crc="4267413079" ref="index"/>
+    <file name="journal-2850091-u805-fr6.jpg" crc="64196827" ref="index"/>
+    <file name="1st341x227.jpg" crc="94089088" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2nd-crop-u55155.jpg" crc="4140361832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3rd322x227.jpg" crc="3909908834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="startup-593327b-u2448-fr6.jpg" crc="4233200309" ref="index"/>
+    <file name="1-actual-u13370-fr5.jpg" crc="3835073229" ref="index"/>
+    <file name="1-hover-u13370-r-fr5.jpg" crc="331417144" ref="index"/>
+    <file name="2-actual-u13369-fr5.jpg" crc="367329339" ref="index"/>
+    <file name="2-hover-u13369-r-fr5.jpg" crc="190618982" ref="index"/>
+    <file name="4-actual-u13348-fr6.jpg" crc="4217239650" ref="index"/>
+    <file name="4-hover-u13348-r-fr6.jpg" crc="366463948" ref="index"/>
+    <file name="3-actual-u13405-fr5.jpg" crc="4181207429" ref="index"/>
+    <file name="3-hover-u13405-r-fr5.jpg" crc="3913020693" ref="index"/>
+    <file name="5-actual-u13339-fr6.jpg" crc="3879521059" ref="index"/>
+    <file name="5-hover-u13339-r-fr6.jpg" crc="4079213553" ref="index"/>
+    <file name="untitled-5-u7205-fr3.png" crc="272753676" ref="index"/>
+    <file name="fb-u7205-r-fr3.png" crc="4208772609" ref="index"/>
+    <file name="g2-u7206-fr3.png" crc="4242143929" ref="index"/>
+    <file name="g-u7206-r-fr3.png" crc="86293908" ref="index"/>
+    <file name="ld2-u7207-fr3.png" crc="365184455" ref="index"/>
+    <file name="ld-u7207-r-fr3.png" crc="248675705" ref="index"/>
+    <file name="wa1-u7208-fr3.png" crc="4183104846" ref="index"/>
+    <file name="wa2-u7208-r-fr3.png" crc="4291549560" ref="index"/>
+    <file name="a-master-favicon.ico" crc="154738683" ref="more-about-ferdous"/>
+    <file name="star_w.png" crc="132436447" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="st_2299x337.png" crc="4116409025" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="st_2.png" crc="3907722388" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="st_2301x339.png" crc="4259089901" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="back2.png" crc="153635390" ref="more-about-ferdous:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render">
+      <caption webpage="suitable-site" alt=""/>
+      <caption webpage="suitable-site" alt=""/>
+      <caption webpage="3d-render" alt=""/>
+      <caption webpage="3d-render" alt=""/>
+      <caption webpage="urban-flood-management" alt=""/>
+      <caption webpage="urban-flood-management" alt=""/>
+      <caption webpage="urban-flood-management" alt=""/>
+      <caption webpage="urban-flood-management" alt=""/>
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+      <caption webpage="map-digitization" alt=""/>
+      <caption webpage="map-digitization" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="back1.png" crc="4287723064" ref="more-about-ferdous:inclusive-cities-and-communities:urban-flood-management:map-digitization:suitable-site:3d-render">
+      <caption webpage="suitable-site" alt=""/>
+      <caption webpage="suitable-site" alt=""/>
+      <caption webpage="3d-render" alt=""/>
+      <caption webpage="3d-render" alt=""/>
+      <caption webpage="urban-flood-management" alt=""/>
+      <caption webpage="urban-flood-management" alt=""/>
+      <caption webpage="urban-flood-management" alt=""/>
+      <caption webpage="urban-flood-management" alt=""/>
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+      <caption webpage="map-digitization" alt=""/>
+      <caption webpage="map-digitization" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="4.png" crc="313112653" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="3.png" crc="3903729743" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="2.png" crc="522835355" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="5.png" crc="264577312" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="human.png" crc="518110881" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="1.png" crc="4201249215" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="back2-u13767-fr.png" crc="3998632598" ref="more-about-ferdous:map-digitization:suitable-site:3d-render"/>
+    <file name="back1-u13767-r-fr.png" crc="69717461" ref="more-about-ferdous:map-digitization:suitable-site:3d-render"/>
+    <file name="back2-u13767-fr2.png" crc="531729233" ref="more-about-ferdous:map-digitization"/>
+    <file name="back1-u13767-r-fr2.png" crc="4120480246" ref="more-about-ferdous:map-digitization"/>
+    <file name="5257x259.png" crc="3772515089" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="back2-u13767-fr3.png" crc="4080379184" ref="more-about-ferdous:urban-flood-management:map-digitization:3d-render"/>
+    <file name="back1-u13767-r-fr3.png" crc="182899636" ref="more-about-ferdous:urban-flood-management:map-digitization:3d-render"/>
+    <file name="5183x184.png" crc="4016159867" seo="true" ref="more-about-ferdous">
+      <caption webpage="more-about-ferdous" alt=""/>
+      <caption webpage="more-about-ferdous" alt=""/>
+    </file>
+    <file name="back2-u13767-fr4.png" crc="456341969" ref="more-about-ferdous:3d-render"/>
+    <file name="back1-u13767-r-fr4.png" crc="4080374706" ref="more-about-ferdous:3d-render"/>
+    <file name="architecture-1868667_1920.jpg" crc="4015484331" ref="inclusive-cities-and-communities">
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+    </file>
+    <file name="road final-u9247-fr.png" crc="4272773822" ref="inclusive-cities-and-communities"/>
+    <file name="top final-u9246-fr.png" crc="501902235" ref="inclusive-cities-and-communities"/>
+    <file name="font final-u9333-fr.png" crc="3959338690" ref="inclusive-cities-and-communities"/>
+    <file name="home front new final-u9350-fr.png" crc="145454444" ref="inclusive-cities-and-communities"/>
+    <file name="gg 4-u9364-fr.jpg" crc="359654534" ref="inclusive-cities-and-communities"/>
+    <file name="house back final-u9378-fr.png" crc="4276541112" ref="inclusive-cities-and-communities"/>
+    <file name="master-u9245-fr.png" crc="4219677870" ref="inclusive-cities-and-communities"/>
+    <file name="sketch plan-1-u9396-fr.jpg" crc="344174020" ref="inclusive-cities-and-communities"/>
+    <file name="road final.png" crc="4056599974" ref="inclusive-cities-and-communities">
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+    </file>
+    <file name="top final.png" crc="145117283" ref="inclusive-cities-and-communities">
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+    </file>
+    <file name="font final.png" crc="372907972" ref="inclusive-cities-and-communities">
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+    </file>
+    <file name="home front new final.png" crc="3904503517" ref="inclusive-cities-and-communities">
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+    </file>
+    <file name="gg 4.jpg" crc="4293774400" ref="inclusive-cities-and-communities">
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+    </file>
+    <file name="house back final.png" crc="3759339645" ref="inclusive-cities-and-communities">
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+    </file>
+    <file name="master.png" crc="3804332250" ref="inclusive-cities-and-communities">
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+    </file>
+    <file name="sketch plan-1.jpg" crc="4232177491" ref="inclusive-cities-and-communities">
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+      <caption webpage="inclusive-cities-and-communities" alt=""/>
+    </file>
+    <file name="road final-u9247-fr2.png" crc="84887311" ref="inclusive-cities-and-communities"/>
+    <file name="top final-u9246-fr2.png" crc="365066528" ref="inclusive-cities-and-communities"/>
+    <file name="font final-u9333-fr2.png" crc="307701347" ref="inclusive-cities-and-communities"/>
+    <file name="home front new final-u9350-fr2.png" crc="324539025" ref="inclusive-cities-and-communities"/>
+    <file name="gg 4-u9364-fr2.jpg" crc="214972757" ref="inclusive-cities-and-communities"/>
+    <file name="house back final-u9378-fr2.png" crc="506997272" ref="inclusive-cities-and-communities"/>
+    <file name="master-u9245-fr2.png" crc="89980448" ref="inclusive-cities-and-communities"/>
+    <file name="sketch plan-1-u9396-fr2.jpg" crc="3944948517" ref="inclusive-cities-and-communities"/>
+    <file name="master-u9235-fr.png" crc="4090153552" ref="inclusive-cities-and-communities"/>
+    <file name="back2-u13870-fr.png" crc="431333656" ref="inclusive-cities-and-communities:urban-flood-management"/>
+    <file name="back1-u13870-r-fr.png" crc="3944519963" ref="inclusive-cities-and-communities:urban-flood-management"/>
+    <file name="road final-u9247-fr3.png" crc="502600700" ref="inclusive-cities-and-communities"/>
+    <file name="top final-u9246-fr3.png" crc="4012061949" ref="inclusive-cities-and-communities"/>
+    <file name="font final-u9333-fr3.png" crc="3994298356" ref="inclusive-cities-and-communities"/>
+    <file name="home front new final-u9350-fr3.png" crc="93575827" ref="inclusive-cities-and-communities"/>
+    <file name="gg 4-u9364-fr3.jpg" crc="3931540923" ref="inclusive-cities-and-communities"/>
+    <file name="house back final-u9378-fr3.png" crc="3841575792" ref="inclusive-cities-and-communities"/>
+    <file name="master-u9245-fr3.png" crc="4270724799" ref="inclusive-cities-and-communities"/>
+    <file name="sketch plan-1-u9396-fr3.jpg" crc="3798789565" ref="inclusive-cities-and-communities"/>
+    <file name="road final-u9236-fr.png" crc="46714043" ref="inclusive-cities-and-communities"/>
+    <file name="top final-u9237-fr.png" crc="4205356098" ref="inclusive-cities-and-communities"/>
+    <file name="font final-u9338-fr.png" crc="3936469281" ref="inclusive-cities-and-communities"/>
+    <file name="home front new final-u9353-fr.png" crc="4290814103" ref="inclusive-cities-and-communities"/>
+    <file name="gg 4-u9367-fr.jpg" crc="3809724753" ref="inclusive-cities-and-communities"/>
+    <file name="house back final-u9381-fr.png" crc="163900643" ref="inclusive-cities-and-communities"/>
+    <file name="master-u9235-fr2.png" crc="3987445855" ref="inclusive-cities-and-communities"/>
+    <file name="sketch plan-1-u9399-fr.jpg" crc="4031988830" ref="inclusive-cities-and-communities"/>
+    <file name="back2-u13870-fr2.png" crc="3894777680" ref="inclusive-cities-and-communities"/>
+    <file name="back1-u13870-r-fr2.png" crc="116182885" ref="inclusive-cities-and-communities"/>
+    <file name="road final-u9236-fr2.png" crc="28251636" ref="inclusive-cities-and-communities"/>
+    <file name="top final-u9237-fr2.png" crc="532291240" ref="inclusive-cities-and-communities"/>
+    <file name="font final-u9338-fr2.png" crc="3919589959" ref="inclusive-cities-and-communities"/>
+    <file name="home front new final-u9353-fr2.png" crc="18294382" ref="inclusive-cities-and-communities"/>
+    <file name="gg 4-u9367-fr2.jpg" crc="3777628591" ref="inclusive-cities-and-communities"/>
+    <file name="house back final-u9381-fr2.png" crc="3981339012" ref="inclusive-cities-and-communities"/>
+    <file name="master-u9235-fr3.png" crc="149511310" ref="inclusive-cities-and-communities"/>
+    <file name="sketch plan-1-u9399-fr2.jpg" crc="4200887739" ref="inclusive-cities-and-communities"/>
+    <file name="road final-u9236-fr3.png" crc="129481535" ref="inclusive-cities-and-communities"/>
+    <file name="top final-u9237-fr3.png" crc="122600205" ref="inclusive-cities-and-communities"/>
+    <file name="font final-u9338-fr3.png" crc="442147746" ref="inclusive-cities-and-communities"/>
+    <file name="home front new final-u9353-fr3.png" crc="255439413" ref="inclusive-cities-and-communities"/>
+    <file name="gg 4-u9367-fr3.jpg" crc="424867266" ref="inclusive-cities-and-communities"/>
+    <file name="house back final-u9381-fr3.png" crc="129101303" ref="inclusive-cities-and-communities"/>
+    <file name="master-u9235-fr4.png" crc="4183786657" ref="inclusive-cities-and-communities"/>
+    <file name="sketch plan-1-u9399-fr3.jpg" crc="375682887" ref="inclusive-cities-and-communities"/>
+    <file name="architecture-1868667_1920-u9456-fr.jpg" crc="495948401" ref="inclusive-cities-and-communities"/>
+    <file name="back2-u13870-fr3.png" crc="4181850264" ref="inclusive-cities-and-communities"/>
+    <file name="back1-u13870-r-fr3.png" crc="3939836982" ref="inclusive-cities-and-communities"/>
+    <file name="road final-u9247-fr4.png" crc="73119052" ref="inclusive-cities-and-communities"/>
+    <file name="top final-u9246-fr4.png" crc="4275623813" ref="inclusive-cities-and-communities"/>
+    <file name="font final-u9333-fr4.png" crc="167845388" ref="inclusive-cities-and-communities"/>
+    <file name="home front new final-u9350-fr4.png" crc="4024491341" ref="inclusive-cities-and-communities"/>
+    <file name="gg 4-u9364-fr4.jpg" crc="4054400469" ref="inclusive-cities-and-communities"/>
+    <file name="house back final-u9378-fr4.png" crc="4282659178" ref="inclusive-cities-and-communities"/>
+    <file name="master-u9245-fr4.png" crc="242608997" ref="inclusive-cities-and-communities"/>
+    <file name="sketch plan-1-u9396-fr4.jpg" crc="334350329" ref="inclusive-cities-and-communities"/>
+    <file name="road final-u9236-fr4.png" crc="3910592558" ref="inclusive-cities-and-communities"/>
+    <file name="top final-u9237-fr4.png" crc="327209102" ref="inclusive-cities-and-communities"/>
+    <file name="font final-u9338-fr4.png" crc="391693356" ref="inclusive-cities-and-communities"/>
+    <file name="home front new final-u9353-fr4.png" crc="3890859886" ref="inclusive-cities-and-communities"/>
+    <file name="gg 4-u9367-fr4.jpg" crc="3849697724" ref="inclusive-cities-and-communities"/>
+    <file name="house back final-u9381-fr4.png" crc="397977337" ref="inclusive-cities-and-communities"/>
+    <file name="master-u9235-fr5.png" crc="3772259185" ref="inclusive-cities-and-communities"/>
+    <file name="sketch plan-1-u9399-fr4.jpg" crc="3790821362" ref="inclusive-cities-and-communities"/>
+    <file name="architecture-1868667_1920-u9456-fr2.jpg" crc="310012689" ref="inclusive-cities-and-communities"/>
+    <file name="back2-u13870-fr4.png" crc="453540944" ref="inclusive-cities-and-communities"/>
+    <file name="back1-u13870-r-fr4.png" crc="8928965" ref="inclusive-cities-and-communities"/>
+    <file name="road final-u9247-fr5.png" crc="3841379702" ref="inclusive-cities-and-communities"/>
+    <file name="top final-u9246-fr5.png" crc="453698119" ref="inclusive-cities-and-communities"/>
+    <file name="font final-u9333-fr5.png" crc="16787179" ref="inclusive-cities-and-communities"/>
+    <file name="home front new final-u9350-fr5.png" crc="4195041684" ref="inclusive-cities-and-communities"/>
+    <file name="gg 4-u9364-fr5.jpg" crc="61551388" ref="inclusive-cities-and-communities"/>
+    <file name="house back final-u9378-fr5.png" crc="83160055" ref="inclusive-cities-and-communities"/>
+    <file name="master-u9245-fr5.png" crc="370638529" ref="inclusive-cities-and-communities"/>
+    <file name="sketch plan-1-u9396-fr5.jpg" crc="4047214099" ref="inclusive-cities-and-communities"/>
+    <file name="road final-u9236-fr5.png" crc="426863351" ref="inclusive-cities-and-communities"/>
+    <file name="top final-u9237-fr5.png" crc="3816723547" ref="inclusive-cities-and-communities"/>
+    <file name="font final-u9338-fr5.png" crc="367704416" ref="inclusive-cities-and-communities"/>
+    <file name="home front new final-u9353-fr5.png" crc="476414219" ref="inclusive-cities-and-communities"/>
+    <file name="gg 4-u9367-fr5.jpg" crc="355490014" ref="inclusive-cities-and-communities"/>
+    <file name="house back final-u9381-fr5.png" crc="325999751" ref="inclusive-cities-and-communities"/>
+    <file name="sketch plan-1-u9399-fr5.jpg" crc="336736468" ref="inclusive-cities-and-communities"/>
+    <file name="waves-1867285.jpg" crc="40937415" ref="urban-flood-management">
+      <caption webpage="urban-flood-management" alt=""/>
+      <caption webpage="urban-flood-management" alt=""/>
+    </file>
+    <file name="disaster_poster-u11484-fr.jpg" crc="270253070" ref="urban-flood-management"/>
+    <file name="rainfall-u11483-fr.jpg" crc="194155701" ref="urban-flood-management"/>
+    <file name="disaster_poster.jpg" crc="353849093" ref="urban-flood-management">
+      <caption webpage="urban-flood-management" alt=""/>
+    </file>
+    <file name="rainfall.jpg" crc="318899992" ref="urban-flood-management">
+      <caption webpage="urban-flood-management" alt=""/>
+      <caption webpage="urban-flood-management" alt=""/>
+    </file>
+    <file name="disaster_poster-u11484-fr2.jpg" crc="4055536248" ref="urban-flood-management"/>
+    <file name="rainfall-u11483-fr2.jpg" crc="3978863261" ref="urban-flood-management"/>
+    <file name="disaster_poster-u11488-fr.jpg" crc="4212321775" ref="urban-flood-management"/>
+    <file name="waves-1867285-u11960-fr.jpg" crc="33714553" ref="urban-flood-management"/>
+    <file name="disaster_poster-u11484-fr3.jpg" crc="273914851" ref="urban-flood-management"/>
+    <file name="rainfall-u11483-fr3.jpg" crc="4191297200" ref="urban-flood-management"/>
+    <file name="disaster_poster-u11488-fr2.jpg" crc="215228857" ref="urban-flood-management"/>
+    <file name="rainfall-u11486-fr.jpg" crc="466126734" ref="urban-flood-management"/>
+    <file name="waves-1867285-u11960-fr2.jpg" crc="97428128" ref="urban-flood-management"/>
+    <file name="disaster_poster-u11484-fr4.jpg" crc="4075688927" ref="urban-flood-management"/>
+    <file name="rainfall-u11483-fr4.jpg" crc="4112724638" ref="urban-flood-management"/>
+    <file name="disaster_poster-u11488-fr3.jpg" crc="264229469" ref="urban-flood-management"/>
+    <file name="rainfall-u11486-fr2.jpg" crc="34482195" ref="urban-flood-management"/>
+    <file name="back2-u13910-fr.png" crc="3948873339" ref="urban-flood-management"/>
+    <file name="back1-u13910-r-fr.png" crc="449971313" ref="urban-flood-management"/>
+    <file name="waves-1867285-u11960-fr3.jpg" crc="249331929" ref="urban-flood-management"/>
+    <file name="disaster_poster-u11484-fr5.jpg" crc="482214817" ref="urban-flood-management"/>
+    <file name="rainfall-u11483-fr5.jpg" crc="439493520" ref="urban-flood-management"/>
+    <file name="disaster_poster-u11488-fr4.jpg" crc="4178971900" ref="urban-flood-management"/>
+    <file name="rainfall-u11486-fr3.jpg" crc="82617977" ref="urban-flood-management"/>
+    <file name="waves-1867285-u11960-fr4.jpg" crc="127748628" ref="urban-flood-management"/>
+    <file name="disaster_poster-u11484-fr6.jpg" crc="306000561" ref="urban-flood-management"/>
+    <file name="rainfall-u11483-fr6.jpg" crc="4261206098" ref="urban-flood-management"/>
+    <file name="disaster_poster-u11488-fr5.jpg" crc="505344651" ref="urban-flood-management"/>
+    <file name="rainfall-u11486-fr4.jpg" crc="27059321" ref="urban-flood-management"/>
+    <file name="waves-1867285-u11960-fr5.jpg" crc="3983823947" ref="urban-flood-management"/>
+    <file name="disaster_poster-u11488-fr6.jpg" crc="4106687280" ref="urban-flood-management"/>
+    <file name="rainfall-u11486-fr5.jpg" crc="63644744" ref="urban-flood-management"/>
+    <file name="back2-u13910-fr2.png" crc="316112277" ref="urban-flood-management"/>
+    <file name="back1-u13910-r-fr2.png" crc="3819031565" ref="urban-flood-management"/>
+    <file name="globes-1246245.jpg" crc="111370603" ref="map-digitization:suitable-site">
+      <caption webpage="map-digitization" alt=""/>
+    </file>
+    <file name="5-u12028-fr.jpg" crc="451519057" ref="map-digitization"/>
+    <file name="f1-u12027-fr.jpg" crc="523388458" ref="map-digitization"/>
+    <file name="new-u12026-fr.jpg" crc="438935407" ref="map-digitization"/>
+    <file name="5.jpg" crc="4259003808" ref="map-digitization">
+      <caption webpage="map-digitization" alt=""/>
+      <caption webpage="map-digitization" alt=""/>
+    </file>
+    <file name="f1.jpg" crc="88286440" ref="map-digitization">
+      <caption webpage="map-digitization" alt=""/>
+      <caption webpage="map-digitization" alt=""/>
+    </file>
+    <file name="new.jpg" crc="350612254" ref="map-digitization">
+      <caption webpage="map-digitization" alt=""/>
+      <caption webpage="map-digitization" alt=""/>
+    </file>
+    <file name="5-u12032-fr.jpg" crc="25564004" ref="map-digitization"/>
+    <file name="f1-u12030-fr.jpg" crc="4167867746" ref="map-digitization"/>
+    <file name="new-u12031-fr.jpg" crc="346820817" ref="map-digitization"/>
+    <file name="5-u12032-fr2.jpg" crc="232473198" ref="map-digitization"/>
+    <file name="f1-u12030-fr2.jpg" crc="169581923" ref="map-digitization"/>
+    <file name="new-u12031-fr2.jpg" crc="3810736722" ref="map-digitization"/>
+    <file name="5-u12032-fr3.jpg" crc="4188282886" ref="map-digitization"/>
+    <file name="f1-u12030-fr3.jpg" crc="4022139156" ref="map-digitization"/>
+    <file name="new-u12031-fr3.jpg" crc="4294229098" ref="map-digitization"/>
+    <file name="globes-1246245-u12091-fr.jpg" crc="4273062268" ref="map-digitization"/>
+    <file name="5-u12032-fr4.jpg" crc="508947092" ref="map-digitization"/>
+    <file name="f1-u12030-fr4.jpg" crc="532649672" ref="map-digitization"/>
+    <file name="new-u12031-fr4.jpg" crc="4153591409" ref="map-digitization"/>
+    <file name="back2-u13950-fr.png" crc="270458696" ref="map-digitization"/>
+    <file name="back1-u13950-r-fr.png" crc="358893037" ref="map-digitization"/>
+    <file name="gis 2 tulusir-01-u11584-fr.jpg" crc="4063285808" ref="suitable-site"/>
+    <file name="gis 2 tulusir-02-u11583-fr.jpg" crc="4074877729" ref="suitable-site"/>
+    <file name="gis 2 tulusir-04-u11582-fr.jpg" crc="261626114" ref="suitable-site"/>
+    <file name="gis 2 tulusir-05-u11647-fr.jpg" crc="65155060" ref="suitable-site"/>
+    <file name="gis 2 tulusir-06-u11656-fr.jpg" crc="311826905" ref="suitable-site"/>
+    <file name="gis 2 tulusir-07-u11680-fr.jpg" crc="53838030" ref="suitable-site"/>
+    <file name="gis 2 tulusir-08-u11694-fr.jpg" crc="3998285395" ref="suitable-site"/>
+    <file name="gis 2 tulusir-10-u11700-fr.jpg" crc="4084897466" ref="suitable-site"/>
+    <file name="gis 2 tulusir-11-u11706-fr.jpg" crc="83120861" ref="suitable-site"/>
+    <file name="gis 2 tulusir-12-u11736-fr.jpg" crc="4167648450" ref="suitable-site"/>
+    <file name="gis 2 tulusir-13-u11742-fr.jpg" crc="4160638708" ref="suitable-site"/>
+    <file name="gis 2 tulusir-15-u11748-fr.jpg" crc="349547967" ref="suitable-site"/>
+    <file name="gis 2 tulusir-16-u11778-fr.jpg" crc="520816631" ref="suitable-site"/>
+    <file name="gis 2 tulusir-17-u11784-fr.jpg" crc="121233058" ref="suitable-site"/>
+    <file name="gis 2 tulusir-01.jpg" crc="4294810993" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-02.jpg" crc="142215637" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-04.jpg" crc="376727090" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-05.jpg" crc="31090587" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-06.jpg" crc="405485654" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-07.jpg" crc="42003348" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-08.jpg" crc="471143272" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-10.jpg" crc="4171842796" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-11.jpg" crc="4219607928" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-12.jpg" crc="4289743136" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-13.jpg" crc="364048040" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-15.jpg" crc="4235038551" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-16.jpg" crc="381018204" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-17.jpg" crc="161523639" ref="suitable-site">
+      <caption webpage="suitable-site" alt=""/>
+    </file>
+    <file name="gis 2 tulusir-01-u11584-fr2.jpg" crc="4174193293" ref="suitable-site"/>
+    <file name="gis 2 tulusir-02-u11583-fr2.jpg" crc="4017450020" ref="suitable-site"/>
+    <file name="gis 2 tulusir-04-u11582-fr2.jpg" crc="3842575141" ref="suitable-site"/>
+    <file name="gis 2 tulusir-05-u11647-fr2.jpg" crc="3973021661" ref="suitable-site"/>
+    <file name="gis 2 tulusir-06-u11656-fr2.jpg" crc="321729180" ref="suitable-site"/>
+    <file name="gis 2 tulusir-07-u11680-fr2.jpg" crc="3862951791" ref="suitable-site"/>
+    <file name="gis 2 tulusir-08-u11694-fr2.jpg" crc="166810612" ref="suitable-site"/>
+    <file name="gis 2 tulusir-10-u11700-fr2.jpg" crc="3809181291" ref="suitable-site"/>
+    <file name="gis 2 tulusir-11-u11706-fr2.jpg" crc="3980691869" ref="suitable-site"/>
+    <file name="gis 2 tulusir-12-u11736-fr2.jpg" crc="3782630412" ref="suitable-site"/>
+    <file name="gis 2 tulusir-13-u11742-fr2.jpg" crc="3793805022" ref="suitable-site"/>
+    <file name="gis 2 tulusir-15-u11748-fr2.jpg" crc="4185284549" ref="suitable-site"/>
+    <file name="gis 2 tulusir-16-u11778-fr2.jpg" crc="338070538" ref="suitable-site"/>
+    <file name="gis 2 tulusir-17-u11784-fr2.jpg" crc="4091144253" ref="suitable-site"/>
+    <file name="gis 2 tulusir-01-u11588-fr.jpg" crc="4279838373" ref="suitable-site"/>
+    <file name="gis 2 tulusir-02-u11586-fr.jpg" crc="4116922423" ref="suitable-site"/>
+    <file name="gis 2 tulusir-04-u11587-fr.jpg" crc="3882275982" ref="suitable-site"/>
+    <file name="gis 2 tulusir-05-u11652-fr.jpg" crc="214829766" ref="suitable-site"/>
+    <file name="gis 2 tulusir-06-u11660-fr.jpg" crc="390888429" ref="suitable-site"/>
+    <file name="gis 2 tulusir-07-u11683-fr.jpg" crc="4025777048" ref="suitable-site"/>
+    <file name="gis 2 tulusir-08-u11697-fr.jpg" crc="349556467" ref="suitable-site"/>
+    <file name="gis 2 tulusir-10-u11703-fr.jpg" crc="365327111" ref="suitable-site"/>
+    <file name="gis 2 tulusir-11-u11709-fr.jpg" crc="348430684" ref="suitable-site"/>
+    <file name="gis 2 tulusir-12-u11739-fr.jpg" crc="3789368020" ref="suitable-site"/>
+    <file name="gis 2 tulusir-13-u11745-fr.jpg" crc="415130118" ref="suitable-site"/>
+    <file name="gis 2 tulusir-15-u11751-fr.jpg" crc="4143119811" ref="suitable-site"/>
+    <file name="gis 2 tulusir-16-u11781-fr.jpg" crc="4193022034" ref="suitable-site"/>
+    <file name="gis 2 tulusir-17-u11787-fr.jpg" crc="24302502" ref="suitable-site"/>
+    <file name="gis 2 tulusir-01-u11584-fr3.jpg" crc="4181205309" ref="suitable-site"/>
+    <file name="gis 2 tulusir-02-u11583-fr3.jpg" crc="426448198" ref="suitable-site"/>
+    <file name="gis 2 tulusir-04-u11582-fr3.jpg" crc="3945109135" ref="suitable-site"/>
+    <file name="gis 2 tulusir-05-u11647-fr3.jpg" crc="250885244" ref="suitable-site"/>
+    <file name="gis 2 tulusir-06-u11656-fr3.jpg" crc="253302137" ref="suitable-site"/>
+    <file name="gis 2 tulusir-07-u11680-fr3.jpg" crc="296734765" ref="suitable-site"/>
+    <file name="gis 2 tulusir-08-u11694-fr3.jpg" crc="517275027" ref="suitable-site"/>
+    <file name="gis 2 tulusir-10-u11700-fr3.jpg" crc="4204774722" ref="suitable-site"/>
+    <file name="gis 2 tulusir-11-u11706-fr3.jpg" crc="4013428875" ref="suitable-site"/>
+    <file name="gis 2 tulusir-12-u11736-fr3.jpg" crc="3840338981" ref="suitable-site"/>
+    <file name="gis 2 tulusir-13-u11742-fr3.jpg" crc="337859669" ref="suitable-site"/>
+    <file name="gis 2 tulusir-15-u11748-fr3.jpg" crc="27897935" ref="suitable-site"/>
+    <file name="gis 2 tulusir-16-u11778-fr3.jpg" crc="3814599210" ref="suitable-site"/>
+    <file name="gis 2 tulusir-17-u11784-fr3.jpg" crc="4283921866" ref="suitable-site"/>
+    <file name="gis 2 tulusir-01-u11588-fr2.jpg" crc="3781557353" ref="suitable-site"/>
+    <file name="gis 2 tulusir-02-u11586-fr2.jpg" crc="3900208329" ref="suitable-site"/>
+    <file name="gis 2 tulusir-04-u11587-fr2.jpg" crc="68925740" ref="suitable-site"/>
+    <file name="gis 2 tulusir-05-u11652-fr2.jpg" crc="4263015416" ref="suitable-site"/>
+    <file name="gis 2 tulusir-06-u11660-fr2.jpg" crc="4253342895" ref="suitable-site"/>
+    <file name="gis 2 tulusir-07-u11683-fr2.jpg" crc="196956885" ref="suitable-site"/>
+    <file name="gis 2 tulusir-08-u11697-fr2.jpg" crc="357239656" ref="suitable-site"/>
+    <file name="gis 2 tulusir-10-u11703-fr2.jpg" crc="451202589" ref="suitable-site"/>
+    <file name="gis 2 tulusir-11-u11709-fr2.jpg" crc="486623374" ref="suitable-site"/>
+    <file name="gis 2 tulusir-12-u11739-fr2.jpg" crc="79587216" ref="suitable-site"/>
+    <file name="gis 2 tulusir-13-u11745-fr2.jpg" crc="2107060" ref="suitable-site"/>
+    <file name="gis 2 tulusir-15-u11751-fr2.jpg" crc="57394254" ref="suitable-site"/>
+    <file name="gis 2 tulusir-16-u11781-fr2.jpg" crc="183696313" ref="suitable-site"/>
+    <file name="gis 2 tulusir-17-u11787-fr2.jpg" crc="3889272439" ref="suitable-site"/>
+    <file name="gis 2 tulusir-01-u11584-fr4.jpg" crc="4257592191" ref="suitable-site"/>
+    <file name="gis 2 tulusir-02-u11583-fr4.jpg" crc="3974149673" ref="suitable-site"/>
+    <file name="gis 2 tulusir-04-u11582-fr4.jpg" crc="431842390" ref="suitable-site"/>
+    <file name="gis 2 tulusir-05-u11647-fr4.jpg" crc="190361612" ref="suitable-site"/>
+    <file name="gis 2 tulusir-06-u11656-fr4.jpg" crc="4149632226" ref="suitable-site"/>
+    <file name="gis 2 tulusir-07-u11680-fr4.jpg" crc="381950957" ref="suitable-site"/>
+    <file name="gis 2 tulusir-08-u11694-fr4.jpg" crc="4041766928" ref="suitable-site"/>
+    <file name="gis 2 tulusir-10-u11700-fr4.jpg" crc="4186921225" ref="suitable-site"/>
+    <file name="gis 2 tulusir-11-u11706-fr4.jpg" crc="333411690" ref="suitable-site"/>
+    <file name="gis 2 tulusir-12-u11736-fr4.jpg" crc="3786993575" ref="suitable-site"/>
+    <file name="gis 2 tulusir-13-u11742-fr4.jpg" crc="3953197187" ref="suitable-site"/>
+    <file name="gis 2 tulusir-15-u11748-fr4.jpg" crc="123249048" ref="suitable-site"/>
+    <file name="gis 2 tulusir-16-u11778-fr4.jpg" crc="3766737156" ref="suitable-site"/>
+    <file name="gis 2 tulusir-17-u11784-fr4.jpg" crc="85806429" ref="suitable-site"/>
+    <file name="gis 2 tulusir-01-u11588-fr3.jpg" crc="232644583" ref="suitable-site"/>
+    <file name="gis 2 tulusir-02-u11586-fr3.jpg" crc="37151678" ref="suitable-site"/>
+    <file name="gis 2 tulusir-04-u11587-fr3.jpg" crc="406254287" ref="suitable-site"/>
+    <file name="gis 2 tulusir-05-u11652-fr3.jpg" crc="4003650924" ref="suitable-site"/>
+    <file name="gis 2 tulusir-06-u11660-fr3.jpg" crc="43115848" ref="suitable-site"/>
+    <file name="gis 2 tulusir-07-u11683-fr3.jpg" crc="238464127" ref="suitable-site"/>
+    <file name="gis 2 tulusir-08-u11697-fr3.jpg" crc="230841253" ref="suitable-site"/>
+    <file name="gis 2 tulusir-10-u11703-fr3.jpg" crc="4149062725" ref="suitable-site"/>
+    <file name="gis 2 tulusir-11-u11709-fr3.jpg" crc="525300918" ref="suitable-site"/>
+    <file name="gis 2 tulusir-12-u11739-fr3.jpg" crc="4143503080" ref="suitable-site"/>
+    <file name="gis 2 tulusir-13-u11745-fr3.jpg" crc="78448423" ref="suitable-site"/>
+    <file name="gis 2 tulusir-15-u11751-fr3.jpg" crc="3992033444" ref="suitable-site"/>
+    <file name="gis 2 tulusir-16-u11781-fr3.jpg" crc="319906036" ref="suitable-site"/>
+    <file name="gis 2 tulusir-17-u11787-fr3.jpg" crc="4282601227" ref="suitable-site"/>
+    <file name="back2-u13844-fr.png" crc="4060275340" ref="suitable-site"/>
+    <file name="back1-u13844-r-fr.png" crc="4118269667" ref="suitable-site"/>
+    <file name="globes-1246245-u11995-fr.jpg" crc="4018061631" ref="suitable-site"/>
+    <file name="gis 2 tulusir-01-u11588-fr4.jpg" crc="4032466412" ref="suitable-site"/>
+    <file name="gis 2 tulusir-02-u11586-fr4.jpg" crc="3816290432" ref="suitable-site"/>
+    <file name="gis 2 tulusir-04-u11587-fr4.jpg" crc="324000041" ref="suitable-site"/>
+    <file name="gis 2 tulusir-05-u11652-fr4.jpg" crc="3888363165" ref="suitable-site"/>
+    <file name="gis 2 tulusir-06-u11660-fr4.jpg" crc="4237405266" ref="suitable-site"/>
+    <file name="gis 2 tulusir-07-u11683-fr4.jpg" crc="3888230914" ref="suitable-site"/>
+    <file name="gis 2 tulusir-08-u11697-fr4.jpg" crc="273335528" ref="suitable-site"/>
+    <file name="gis 2 tulusir-10-u11703-fr4.jpg" crc="484651012" ref="suitable-site"/>
+    <file name="gis 2 tulusir-11-u11709-fr4.jpg" crc="152083193" ref="suitable-site"/>
+    <file name="gis 2 tulusir-12-u11739-fr4.jpg" crc="3875800436" ref="suitable-site"/>
+    <file name="gis 2 tulusir-13-u11745-fr4.jpg" crc="4200826776" ref="suitable-site"/>
+    <file name="gis 2 tulusir-15-u11751-fr4.jpg" crc="247353911" ref="suitable-site"/>
+    <file name="gis 2 tulusir-16-u11781-fr4.jpg" crc="244711379" ref="suitable-site"/>
+    <file name="gis 2 tulusir-17-u11787-fr4.jpg" crc="277889071" ref="suitable-site"/>
+    <file name="back2-u13844-fr2.png" crc="4251727922" ref="suitable-site"/>
+    <file name="back1-u13844-r-fr2.png" crc="116453783" ref="suitable-site"/>
+    <file name="globes-1246245-u11995-fr2.jpg" crc="3821464413" ref="suitable-site"/>
+    <file name="gis 2 tulusir-01-u11588-fr5.jpg" crc="389976682" ref="suitable-site"/>
+    <file name="gis 2 tulusir-02-u11586-fr5.jpg" crc="3783609772" ref="suitable-site"/>
+    <file name="gis 2 tulusir-04-u11587-fr5.jpg" crc="3928249772" ref="suitable-site"/>
+    <file name="gis 2 tulusir-05-u11652-fr5.jpg" crc="342494532" ref="suitable-site"/>
+    <file name="gis 2 tulusir-06-u11660-fr5.jpg" crc="3825952883" ref="suitable-site"/>
+    <file name="gis 2 tulusir-07-u11683-fr5.jpg" crc="4172083093" ref="suitable-site"/>
+    <file name="gis 2 tulusir-08-u11697-fr5.jpg" crc="4238757777" ref="suitable-site"/>
+    <file name="gis 2 tulusir-10-u11703-fr5.jpg" crc="390254067" ref="suitable-site"/>
+    <file name="gis 2 tulusir-11-u11709-fr5.jpg" crc="469696007" ref="suitable-site"/>
+    <file name="gis 2 tulusir-12-u11739-fr5.jpg" crc="284440943" ref="suitable-site"/>
+    <file name="gis 2 tulusir-13-u11745-fr5.jpg" crc="3943253771" ref="suitable-site"/>
+    <file name="gis 2 tulusir-15-u11751-fr5.jpg" crc="3854877792" ref="suitable-site"/>
+    <file name="gis 2 tulusir-16-u11781-fr5.jpg" crc="4072921965" ref="suitable-site"/>
+    <file name="gis 2 tulusir-17-u11787-fr5.jpg" crc="211062874" ref="suitable-site"/>
+    <file name="back2-u13844-fr3.png" crc="4151543697" ref="suitable-site"/>
+    <file name="back1-u13844-r-fr3.png" crc="4002165254" ref="suitable-site"/>
+    <file name="architecture-768432_1920.jpg" crc="132195142" ref="3d-render">
+      <caption webpage="3d-render" alt=""/>
+    </file>
+    <file name="2-u12108-fr.jpg" crc="4060384758" ref="3d-render"/>
+    <file name="3-u12107-fr.jpg" crc="24706526" ref="3d-render"/>
+    <file name="4-c-u12106-fr.jpg" crc="74241748" ref="3d-render"/>
+    <file name="5-c-u12171-fr.jpg" crc="4174617542" ref="3d-render"/>
+    <file name="7-u12188-fr.jpg" crc="501085437" ref="3d-render"/>
+    <file name="2.jpg" crc="311473374" ref="3d-render">
+      <caption webpage="3d-render" alt=""/>
+      <caption webpage="3d-render" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4067110574" ref="3d-render">
+      <caption webpage="3d-render" alt=""/>
+      <caption webpage="3d-render" alt=""/>
+    </file>
+    <file name="4-c.jpg" crc="240578946" ref="3d-render">
+      <caption webpage="3d-render" alt=""/>
+      <caption webpage="3d-render" alt=""/>
+    </file>
+    <file name="5-c.jpg" crc="3867734442" ref="3d-render">
+      <caption webpage="3d-render" alt=""/>
+      <caption webpage="3d-render" alt=""/>
+    </file>
+    <file name="7.jpg" crc="312142115" ref="3d-render">
+      <caption webpage="3d-render" alt=""/>
+      <caption webpage="3d-render" alt=""/>
+    </file>
+    <file name="2-u12108-fr2.jpg" crc="237868283" ref="3d-render"/>
+    <file name="3-u12107-fr2.jpg" crc="4077510917" ref="3d-render"/>
+    <file name="4-c-u12106-fr2.jpg" crc="226715046" ref="3d-render"/>
+    <file name="5-c-u12171-fr2.jpg" crc="21143456" ref="3d-render"/>
+    <file name="7-u12188-fr2.jpg" crc="392882662" ref="3d-render"/>
+    <file name="2-u12108-fr3.jpg" crc="3788506121" ref="3d-render"/>
+    <file name="3-u12107-fr3.jpg" crc="400494669" ref="3d-render"/>
+    <file name="7-u12188-fr3.jpg" crc="365779203" ref="3d-render"/>
+    <file name="2-u12112-fr.jpg" crc="4028671322" ref="3d-render"/>
+    <file name="3-u12110-fr.jpg" crc="342511187" ref="3d-render"/>
+    <file name="4-c-u12111-fr.jpg" crc="466347126" ref="3d-render"/>
+    <file name="5-c-u12176-fr.jpg" crc="402756955" ref="3d-render"/>
+    <file name="7-u12191-fr.jpg" crc="512509393" ref="3d-render"/>
+    <file name="architecture-768432_1920-u13147-fr.jpg" crc="4101173059" ref="3d-render"/>
+    <file name="2-u12108-fr4.jpg" crc="380635913" ref="3d-render"/>
+    <file name="3-u12107-fr4.jpg" crc="3850916279" ref="3d-render"/>
+    <file name="4-c-u12106-fr3.jpg" crc="3895886362" ref="3d-render"/>
+    <file name="5-c-u12171-fr3.jpg" crc="22165657" ref="3d-render"/>
+    <file name="7-u12188-fr4.jpg" crc="386634137" ref="3d-render"/>
+    <file name="2-u12112-fr2.jpg" crc="4288199628" ref="3d-render"/>
+    <file name="3-u12110-fr2.jpg" crc="507674886" ref="3d-render"/>
+    <file name="4-c-u12111-fr2.jpg" crc="143811907" ref="3d-render"/>
+    <file name="5-c-u12176-fr2.jpg" crc="146162759" ref="3d-render"/>
+    <file name="7-u12191-fr2.jpg" crc="3409766" ref="3d-render"/>
+    <file name="architecture-768432_1920-u13147-fr2.jpg" crc="297233528" ref="3d-render"/>
+    <file name="2-u12112-fr3.jpg" crc="235429353" ref="3d-render"/>
+    <file name="3-u12110-fr3.jpg" crc="4244529847" ref="3d-render"/>
+    <file name="4-c-u12111-fr3.jpg" crc="3894447253" ref="3d-render"/>
+    <file name="5-c-u12176-fr3.jpg" crc="3824744800" ref="3d-render"/>
+    <file name="7-u12191-fr3.jpg" crc="4264702411" ref="3d-render"/>
+    <file name="architecture-768432_1920-u13147-fr3.jpg" crc="206741970" ref="3d-render"/>
+    <file name="2-u12108-fr5.jpg" crc="164176167" ref="3d-render"/>
+    <file name="3-u12107-fr5.jpg" crc="220582378" ref="3d-render"/>
+    <file name="4-c-u12106-fr4.jpg" crc="4281425894" ref="3d-render"/>
+    <file name="5-c-u12171-fr4.jpg" crc="3901857658" ref="3d-render"/>
+    <file name="7-u12188-fr5.jpg" crc="3842486584" ref="3d-render"/>
+    <file name="2-u12112-fr4.jpg" crc="4251876567" ref="3d-render"/>
+    <file name="3-u12110-fr4.jpg" crc="450128628" ref="3d-render"/>
+    <file name="4-c-u12111-fr4.jpg" crc="4177152810" ref="3d-render"/>
+    <file name="5-c-u12176-fr4.jpg" crc="326462935" ref="3d-render"/>
+    <file name="7-u12191-fr4.jpg" crc="4160184500" ref="3d-render"/>
+    <file name="back2-u13976-fr.png" crc="4281321199" ref="3d-render"/>
+    <file name="back1-u13976-r-fr.png" crc="4122691672" ref="3d-render"/>
+  </folder>
+  <file name="index.html" crc="4137960880" seo="true" mt="1550922302574" redirect="true"/>
+  <file name="more-about-ferdous.html" crc="3827321856" seo="true" mt="1550922302574" redirect="true"/>
+  <file name="inclusive-cities-and-communities.html" crc="170981037" seo="true" mt="1550922302574" redirect="true"/>
+  <file name="urban-flood-management.html" crc="3761533047" seo="true" mt="1550922302574" redirect="true"/>
+  <file name="map-digitization.html" crc="4269059521" seo="true" mt="1550922302574" redirect="true"/>
+  <file name="suitable-site.html" crc="257558688" seo="true" mt="1550922302574" redirect="true"/>
+  <file name="3d-render.html" crc="4026233276" seo="true" mt="1550922302574" redirect="true"/>
+</manifest>
